@@ -1,0 +1,26 @@
+The game of Ur is a boardgame where
+the aim is to race your pieces along
+a chosen path around the board. If
+all your pieces have completed the
+path before the other player you
+win the game.
+
+The number of squares you can
+move a piece is determined by the
+dice you roled. You use 4 pyramid
+shaped dice. A dice can either be
+1 or 0. The moves are the number
+of ones your roll. If you roll 4
+zeros you get 4 moves.
+
+You can put a new piece on the board
+or move one of your existing pieces.
+A piece can not land on a friendly
+piece, a piece can not land on an
+enemy piece which is on a square
+with a rosetta. If a piece lands on
+another enemey piece the enemy is
+taken off the board and has to start
+again on it's path.
+
+Good luck!
